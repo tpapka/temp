@@ -20,3 +20,6 @@ if __name__ == "__main__":
     hacker_news()
     for sd in main_dict:
         print(sd['title'])
+
+        
+        "http://api.nytimes.com/svc/topstories/v2/home.json?api-key=94a90c94d7154c3eb02c0462f5441ced"
