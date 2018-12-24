@@ -22,4 +22,4 @@ if __name__ == "__main__":
         print(sd['title'])
 
         
-        "http://api.nytimes.com/svc/topstories/v2/home.json?api-key=94a90c94d7154c3eb02c0462f5441ced"
+        "http://api.nytimes.com/svc/topstories/v2/home.json?api-key="
